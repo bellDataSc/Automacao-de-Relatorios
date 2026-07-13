@@ -1,1 +1,37 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
 
+# Variaveis de ambiente (contem API keys)
+.env
+
+# Dados reais do projeto (nunca devem ir para o repo)
+*.xlsx
+!sample_data/*.xlsx
+
+# Documentos gerados
+*.docx
+!templates/template_exemplo.docx
+
+# Arquivos temporarios
+*.tmp
+temp/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

@@ -94,9 +94,9 @@ flowchart LR
 
 
 <p align="center">
-  <a href="Gravando 2026-07-13 172649.mp4">
+  <a href="application-demo.mp4">
     <img
-      src="Captura de tela 2026-07-13 185258.png"
+      src="video-cover.png"
       alt="Open application demonstration video"
       width="100%"
     >

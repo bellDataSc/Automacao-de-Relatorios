@@ -21,7 +21,7 @@ Ingestão de planilhas · Normalização de dados · Regras de cálculo · Visua
 
 <p align="center">
   <img
-    src="Captura de tela 2026-07-13 172205.png"
+    src="application-preview.png"
     alt="Technical Report Automation application running"
     width="100%"
   >
@@ -94,9 +94,9 @@ flowchart LR
 
 
 <p align="center">
-  <a href="application-demo.mp4">
+  <a href="video-cover.png">
     <img
-      src="video-cover.png"
+      src="application-demo.mp4"
       alt="Open application demonstration video"
       width="100%"
     >
